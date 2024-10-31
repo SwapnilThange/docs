@@ -16,11 +16,21 @@ For information on the current status of deployment to Mendix Cloud and any plan
 
 ## 2024
 
+### November 3, 2024
+
+#### New Features
+
+* Cloud permissions are now included in project roles. You can now manage all project roles centrally, on a company level if you have switched to company role.
+
+#### Improvements
+
+* We have made improvements to [Permissions](/developerportal/deploy/software-composition/). The **Recieve alerts** permission has been removed from the permissions tab. The alert subscription can be done using the **Email Alerts** action on the **Alerts** page.
+
 ### October 17, 2024
 
 #### Improvements
 
-* We have made performance improvements to [Software Composition](/developerportal/deploy/software-composition/). Software Bills of Materials (SBOMs) generated automatically upon the creation of deployment packages now show up on the **Software Composition** page within minutes.
+* We have made improvements to [Permission Tab](/developerportal//deploy/node-permissions/#permissions-tab). Software Bills of Materials (SBOMs) generated automatically upon the creation of deployment packages now show up on the **Software Composition** page within minutes.
 
 ### September 19, 2024
 
